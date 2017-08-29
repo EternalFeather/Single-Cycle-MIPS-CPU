@@ -1,0 +1,95 @@
+C:/Users/modelsim/Desktop/SRC2/Controller.v {1 {vlog -work work -stats=none C:/Users/modelsim/Desktop/SRC2/Controller.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/modelsim/Desktop/SRC2/Regfile.v {1 {vlog -work work -stats=none C:/Users/modelsim/Desktop/SRC2/Regfile.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Regfile
+
+Top level modules:
+	Regfile
+
+} {} {}} C:/Users/modelsim/Desktop/SRC2/Mul1.v {1 {vlog -work work -stats=none C:/Users/modelsim/Desktop/SRC2/Mul1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mul1
+
+Top level modules:
+	Mul1
+
+} {} {}} C:/Users/modelsim/Desktop/SRC2/sign_extend.v {1 {vlog -work work -stats=none C:/Users/modelsim/Desktop/SRC2/sign_extend.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Sign_extend
+
+Top level modules:
+	Sign_extend
+
+} {} {}} C:/Users/modelsim/Desktop/SRC2/ADD.v {1 {vlog -work work -stats=none C:/Users/modelsim/Desktop/SRC2/ADD.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ADD
+
+Top level modules:
+	ADD
+
+} {} {}} C:/Users/modelsim/Desktop/SRC2/top.v {1 {vlog -work work -stats=none C:/Users/modelsim/Desktop/SRC2/top.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/modelsim/Desktop/SRC2/cpu_tb.v {1 {vlog -work work -stats=none C:/Users/modelsim/Desktop/SRC2/cpu_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IM
+-- Compiling module DM
+-- Compiling module top
+-- Compiling module cpu_tb
+
+Top level modules:
+	cpu_tb
+
+} {} {}} C:/Users/modelsim/Desktop/SRC2/IM.v {1 {vlog -work work -stats=none C:/Users/modelsim/Desktop/SRC2/IM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IM
+
+Top level modules:
+	IM
+
+} {} {}} C:/Users/modelsim/Desktop/SRC2/Jump_Ctrl.v {1 {vlog -work work -stats=none C:/Users/modelsim/Desktop/SRC2/Jump_Ctrl.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Jump_Ctrl
+
+Top level modules:
+	Jump_Ctrl
+
+} {} {}} C:/Users/modelsim/Desktop/SRC2/testfixture1.v {1 {vlog -work work -stats=none C:/Users/modelsim/Desktop/SRC2/testfixture1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testfixture1
+
+Top level modules:
+	testfixture1
+
+} {} {}} C:/Users/modelsim/Desktop/SRC2/DM.v {1 {vlog -work work -stats=none C:/Users/modelsim/Desktop/SRC2/DM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DM
+
+Top level modules:
+	DM
+
+} {} {}} C:/Users/modelsim/Desktop/SRC2/ALU.v {1 {vlog -work work -stats=none C:/Users/modelsim/Desktop/SRC2/ALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/modelsim/Desktop/SRC2/PC.v {1 {vlog -work work -stats=none C:/Users/modelsim/Desktop/SRC2/PC.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}}

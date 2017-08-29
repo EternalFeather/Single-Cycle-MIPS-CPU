@@ -1,0 +1,468 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Eternal/Desktop/HW2 (1)/P76033016/P76033016/SRC
+vADD
+Z0 !s110 1493343789
+!i10b 1
+!s100 Q=?Oo;@0SSCgK7=AM_<;W0
+Io92zhPc]iEO?0<bg3:0S71
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/modelsim/Desktop/HW2/SRC2
+w1493010070
+8C:/Users/modelsim/Desktop/HW2/SRC2/ADD.v
+FC:/Users/modelsim/Desktop/HW2/SRC2/ADD.v
+L0 3
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1493343789.000000
+!s107 C:/Users/modelsim/Desktop/HW2/SRC2/ADD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/HW2/SRC2/ADD.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@d@d
+vADD1
+!s110 1492998939
+!i10b 1
+!s100 fPNK9XCQTmC`MLHo1ABR63
+I9C>0KKC`WCLi2>=YNTYGB1
+R1
+Z6 dC:/Users/modelsim/Desktop/SRC2
+w1492998928
+8C:/Users/modelsim/Desktop/SRC2/ADD.v
+FC:/Users/modelsim/Desktop/SRC2/ADD.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1492998939.000000
+!s107 C:/Users/modelsim/Desktop/SRC2/ADD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/SRC2/ADD.v|
+!s101 -O0
+!i113 1
+R5
+n@a@d@d1
+vALU
+R0
+!i10b 1
+!s100 OPTlc8CYW]fj8[4[jN@9?0
+IDjHN@`]8kS_NV0^Bd8HJz1
+R1
+R2
+w1493041100
+8C:/Users/modelsim/Desktop/HW2/SRC2/ALU.v
+FC:/Users/modelsim/Desktop/HW2/SRC2/ALU.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/modelsim/Desktop/HW2/SRC2/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/HW2/SRC2/ALU.v|
+!s101 -O0
+!i113 1
+R5
+n@a@l@u
+vController
+R0
+!i10b 1
+!s100 I>4BCGlMS7OJSFQV;^5>d3
+IS:5N2BRA6JHU;3TcW<DFZ0
+R1
+R2
+w1493088813
+8C:/Users/modelsim/Desktop/HW2/SRC2/Controller.v
+FC:/Users/modelsim/Desktop/HW2/SRC2/Controller.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/modelsim/Desktop/HW2/SRC2/Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/HW2/SRC2/Controller.v|
+!s101 -O0
+!i113 1
+R5
+n@controller
+vcpu_tb
+!s110 1493097502
+!i10b 1
+!s100 lEQEfUGf]2ngFCGNNO^]E0
+I>lC0<7Xc]gBXf?g^NZ3^>2
+R1
+R6
+w1459315774
+8C:/Users/modelsim/Desktop/SRC2/cpu_tb.v
+FC:/Users/modelsim/Desktop/SRC2/cpu_tb.v
+L0 8
+R3
+r1
+!s85 0
+31
+!s108 1493097502.000000
+!s107 top.v|DM.v|IM.v|C:/Users/modelsim/Desktop/SRC2/cpu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/SRC2/cpu_tb.v|
+!s101 -O0
+!i113 1
+R5
+vDM
+R0
+!i10b 1
+!s100 f<VRU;@6bZ2BA]NR4HCTS3
+I[_iNlO9Lbmg?__oiP7PP`1
+R1
+R2
+Z7 w1458373027
+8C:/Users/modelsim/Desktop/HW2/SRC2/DM.v
+FC:/Users/modelsim/Desktop/HW2/SRC2/DM.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/modelsim/Desktop/HW2/SRC2/DM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/HW2/SRC2/DM.v|
+!s101 -O0
+!i113 1
+R5
+n@d@m
+vIM
+R0
+!i10b 1
+!s100 7Q25d3o8mk4<eQ3Cj@GJ_1
+I`M5d]FV`4OX7F:RKR`6XR2
+R1
+R2
+R7
+8C:/Users/modelsim/Desktop/HW2/SRC2/IM.v
+FC:/Users/modelsim/Desktop/HW2/SRC2/IM.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/modelsim/Desktop/HW2/SRC2/IM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/HW2/SRC2/IM.v|
+!s101 -O0
+!i113 1
+R5
+n@i@m
+vJump_Ctrl
+R0
+!i10b 1
+!s100 PPkQ<@fCNULWNcDXkd@FT0
+IgiC^?BIM1KK>UBN24UbMi3
+R1
+R2
+w1493058136
+8C:/Users/modelsim/Desktop/HW2/SRC2/Jump_Ctrl.v
+FC:/Users/modelsim/Desktop/HW2/SRC2/Jump_Ctrl.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/modelsim/Desktop/HW2/SRC2/Jump_Ctrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/HW2/SRC2/Jump_Ctrl.v|
+!s101 -O0
+!i113 1
+R5
+n@jump_@ctrl
+vMul1
+R0
+!i10b 1
+!s100 EG8zj8oP:K;:OUj[JJVLP2
+IB_bgOmAdTli<dRcaHkgfQ3
+R1
+R2
+w1493343051
+8C:/Users/modelsim/Desktop/HW2/SRC2/Mul1.v
+FC:/Users/modelsim/Desktop/HW2/SRC2/Mul1.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/modelsim/Desktop/HW2/SRC2/Mul1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/HW2/SRC2/Mul1.v|
+!s101 -O0
+!i113 1
+R5
+n@mul1
+vMul2
+R0
+!i10b 1
+!s100 _Qg:92HD<jS?j8Mz@D2[M1
+I[5aicZC8?zdM8aEcW18YM3
+R1
+R2
+w1493342867
+8C:/Users/modelsim/Desktop/HW2/SRC2/Mul2.v
+FC:/Users/modelsim/Desktop/HW2/SRC2/Mul2.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/modelsim/Desktop/HW2/SRC2/Mul2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/HW2/SRC2/Mul2.v|
+!s101 -O0
+!i113 1
+R5
+n@mul2
+vMul3
+R0
+!i10b 1
+!s100 hD0WB8P_XAQ9KFe;ZL=Q@2
+I4P[ke9UzjRag[3jKl;k`e0
+R1
+R2
+w1492965489
+8C:/Users/modelsim/Desktop/HW2/SRC2/Mul3.v
+FC:/Users/modelsim/Desktop/HW2/SRC2/Mul3.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/modelsim/Desktop/HW2/SRC2/Mul3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/HW2/SRC2/Mul3.v|
+!s101 -O0
+!i113 1
+R5
+n@mul3
+vMux2to1
+Z8 !s110 1492999135
+!i10b 1
+!s100 NC@0Fl=g79JEULomXU4WW0
+I`XQV`cYoPibe<[dgQmiz11
+R1
+R6
+w1460728606
+8C:/Users/modelsim/Desktop/SRC2/Mux2to1.v
+FC:/Users/modelsim/Desktop/SRC2/Mux2to1.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z9 !s108 1492999135.000000
+!s107 C:/Users/modelsim/Desktop/SRC2/Mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/SRC2/Mux2to1.v|
+!s101 -O0
+!i113 1
+R5
+n@mux2to1
+vMux4to1
+R8
+!i10b 1
+!s100 FGTHWHTBQnFAOIRleihMK1
+IQUZdo8`IiPzYP=V:0Xg_Q2
+R1
+R6
+w1460728733
+8C:/Users/modelsim/Desktop/SRC2/Mux4to1.v
+FC:/Users/modelsim/Desktop/SRC2/Mux4to1.v
+L0 3
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/modelsim/Desktop/SRC2/Mux4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/SRC2/Mux4to1.v|
+!s101 -O0
+!i113 1
+R5
+n@mux4to1
+vPC
+R0
+!i10b 1
+!s100 <3DfBEHk0eT]f4J]BBX0g3
+I[cSPK1Y90J@WYdQY<TEc@1
+R1
+R2
+w1493009709
+8C:/Users/modelsim/Desktop/HW2/SRC2/PC.v
+FC:/Users/modelsim/Desktop/HW2/SRC2/PC.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/modelsim/Desktop/HW2/SRC2/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/HW2/SRC2/PC.v|
+!s101 -O0
+!i113 1
+R5
+n@p@c
+vRegfile
+R0
+!i10b 1
+!s100 1<6GW:bo:<i2]`R?E2V8k1
+IN>YJ@_n_VSY8al=jTIWbE3
+R1
+R2
+w1493016967
+8C:/Users/modelsim/Desktop/HW2/SRC2/Regfile.v
+FC:/Users/modelsim/Desktop/HW2/SRC2/Regfile.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/modelsim/Desktop/HW2/SRC2/Regfile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/HW2/SRC2/Regfile.v|
+!s101 -O0
+!i113 1
+R5
+n@regfile
+vRegisters
+Z10 !s110 1492999136
+!i10b 1
+!s100 cUB5]aKg3mo6;g^2WjmmA2
+I3A<GNP`1?IIlNcAC;5^8e0
+R1
+R6
+R7
+8C:/Users/modelsim/Desktop/SRC2/Registers.v
+FC:/Users/modelsim/Desktop/SRC2/Registers.v
+L0 3
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/modelsim/Desktop/SRC2/Registers.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/SRC2/Registers.v|
+!s101 -O0
+!i113 1
+R5
+n@registers
+vsign_extend
+R10
+!i10b 1
+!s100 =CY?amJ0C@Mo[32lTR]Ue2
+IdPKg8=nbY:z<gXRmW3NND3
+R1
+R6
+w1460782874
+8C:/Users/modelsim/Desktop/SRC2/sign_extend.v
+FC:/Users/modelsim/Desktop/SRC2/sign_extend.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1492999136.000000
+!s107 C:/Users/modelsim/Desktop/SRC2/sign_extend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/SRC2/sign_extend.v|
+!s101 -O0
+!i113 1
+R5
+vSign_Extend
+!s110 1493000276
+!i10b 1
+!s100 Em;oMT?YbeO2li9TeiA0z3
+IKYl44Y7ID3KaTD9HXWJdO3
+R1
+dC:/Users/modelsim/Desktop/SRC
+w1492760698
+8C:/Users/modelsim/Desktop/SRC/Sign-Extend.v
+FC:/Users/modelsim/Desktop/SRC/Sign-Extend.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1493000276.000000
+!s107 C:/Users/modelsim/Desktop/SRC/Sign-Extend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/SRC/Sign-Extend.v|
+!s101 -O0
+!i113 1
+R5
+n@sign_@extend
+vSign_extend
+R0
+!i10b 1
+!s100 DEKPHiB@ETBjTT8N>eF^A1
+I83F3WlH^`?hFRjL]4I2j[2
+R1
+R2
+w1493017041
+8C:/Users/modelsim/Desktop/HW2/SRC2/sign_extend.v
+FC:/Users/modelsim/Desktop/HW2/SRC2/sign_extend.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/modelsim/Desktop/HW2/SRC2/sign_extend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/HW2/SRC2/sign_extend.v|
+!s101 -O0
+!i113 1
+R5
+n@sign_extend
+vtestfixture1
+R0
+!i10b 1
+!s100 ZP4T5gl8i`;F;6D=7;Qg:2
+IXSZmodSQY<4EI`d<=<QZG2
+R1
+R2
+w1493097413
+8C:/Users/modelsim/Desktop/HW2/SRC2/testfixture1.v
+FC:/Users/modelsim/Desktop/HW2/SRC2/testfixture1.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/modelsim/Desktop/HW2/SRC2/testfixture1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/HW2/SRC2/testfixture1.v|
+!s101 -O0
+!i113 1
+R5
+vtop
+R0
+!i10b 1
+!s100 TCfmfXb101Dk[^InAjN:D0
+IzYWdbn;FUUjg5B^Gn`>GJ2
+R1
+R2
+w1493342984
+8C:/Users/modelsim/Desktop/HW2/SRC2/top.v
+FC:/Users/modelsim/Desktop/HW2/SRC2/top.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/modelsim/Desktop/HW2/SRC2/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/modelsim/Desktop/HW2/SRC2/top.v|
+!s101 -O0
+!i113 1
+R5
