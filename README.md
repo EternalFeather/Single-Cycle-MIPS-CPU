@@ -24,4 +24,4 @@ The goal of this experience is to understand how a single-cycle MIPS work and ho
 
 - Figure 5 shows the datapath of the single-cycle CPU. This single-cycle CPU is similar to the single-cycle in the textbook. However, to simply the CPU design, only smaller instruction and data memory are used and only 18-bit addresses are needed to obtain data in the memory.
 
-
+![](https://i.imgur.com/71fKMwP.png)
